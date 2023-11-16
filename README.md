@@ -4,11 +4,16 @@ This project is a web application featuring a user management dashboard with two
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Installation](#installation)
 - [Running Locally](#running-locally)
 - [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
 - [Lighthouse Score](#lighthouse-score)
+
+## Demo
+
+App is live [here](https://rasikaghadge.github.io/user-management-dashboard/)!
 
 ## Installation
 
